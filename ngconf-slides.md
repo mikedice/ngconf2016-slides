@@ -7,6 +7,9 @@ Videos
 
 Slides
 ------
+
+### Day 1 
+
 Day 1 Keynote
 Brad Green and Jules Kremer  
 [Slides](https://t.co/6rmvZByOgp)
@@ -38,3 +41,10 @@ Pete Bacon Darwin
 Functional Reactive JavaScript Let’s stop the Conversational Remorse  
 Anas Raza Firdousi  
 [Slides](https://t.co/w2wBVMUP8c)
+
+### Day 2
+
+Angular Upgrade Workshop  
+Thoughtram.io   
+[Slides](http://thoughtram.io/angular-upgrade-slides/#/)  
+[Github Sample Upgrade Code](https://github.com/thoughtram/angular-upgrade-app)
