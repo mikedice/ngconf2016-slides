@@ -48,3 +48,9 @@ Angular Upgrade Workshop
 Thoughtram.io   
 [Slides](http://thoughtram.io/angular-upgrade-slides/#/)  
 [Github Sample Upgrade Code](https://github.com/thoughtram/angular-upgrade-app)
+
+Typescript in 60is minutes  
+[Dan Wahlin's Angular2 and Typescript Jumpstart]http://github.com/danwahlin/angular2-jumpstart
+
+Angular2 in 60ish minutes  
+[Slides](http://tinyurl.com/angular2jumpstart)
