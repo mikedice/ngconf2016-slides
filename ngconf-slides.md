@@ -55,18 +55,18 @@ Typescript in 60is minutes
 Angular2 in 60ish minutes  
 [Slides](http://tinyurl.com/angular2jumpstart)
 
-Isolating and Improving performance in Angular 1 Applications
+Isolating and Improving performance in Angular 1 Applications  
 [Github Sample Code](https://github.com/taylor1791/ng-conf-2016-workshop)
 
-Unit Testing with Angular 2
+Unit Testing with Angular 2  
 [Github Sample Code](https://github.com/elecash/ng-conf-testing)
 
-How to create a library for Angular 2
+How to create a library for Angular 2  
 [Github Sample Code](https://github.com/ocombe/ng-conf-library)
 
-Angular Universal Server Side Rendering
-[Angular Universal Document](https://universal.angular.io/)
+Angular Universal Server Side Rendering  
+[Angular Universal Document](https://universal.angular.io/)  
 [Github Sample Code](https://github.com/angular/universal-starter)
 
-Universal  
+Universal web site  
 [Micro-site](universal.angular.io)
