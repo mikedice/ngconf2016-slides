@@ -54,3 +54,9 @@ Typescript in 60is minutes
 
 Angular2 in 60ish minutes  
 [Slides](http://tinyurl.com/angular2jumpstart)
+
+Isolating and Improving performance in Angular 1 Applications
+[Github Sample Code](https://github.com/taylor1791/ng-conf-2016-workshop)
+
+Unit Testing with Angular 2
+[Github Sample Code](https://github.com/elecash/ng-conf-testing)
