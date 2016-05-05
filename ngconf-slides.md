@@ -60,3 +60,10 @@ Isolating and Improving performance in Angular 1 Applications
 
 Unit Testing with Angular 2
 [Github Sample Code](https://github.com/elecash/ng-conf-testing)
+
+How to create a library for Angular 2
+[Github Sample Code](https://github.com/ocombe/ng-conf-library)
+
+Angular Universal Server Side Rendering
+[Angular Universal Document](https://universal.angular.io/)
+[Github Sample Code](https://github.com/angular/universal-starter)
