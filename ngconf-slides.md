@@ -1,8 +1,9 @@
 ng-conf 2016 resources
 ======================
 
-ng-conf 2016 video playlist
-https://www.youtube.com/watch?list=PLOETEcp3DkCq788xapkP_OU-78jhTf68j&v=J5Bvy4KhIs0
+Videos
+------
+[ng-conf 2016 video playlist](https://www.youtube.com/watch?list=PLOETEcp3DkCq788xapkP_OU-78jhTf68j&v=J5Bvy4KhIs0)
 
 
 Day 1 Keynote
