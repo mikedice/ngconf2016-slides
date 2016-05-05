@@ -20,6 +20,7 @@ Patrick Stapleton & Jeff Whelpley
 [Slides](https://t.co/EMivEdHdJ9)
 
 Angular Material titanium-octopus  
+Kara Erickson & Jeremy Elbourn  
 [Slides](https://t.co/vHljvzZ1SX)
 
 Testing your Tasks  
@@ -35,4 +36,5 @@ Pete Bacon Darwin
 [Slides](https://t.co/bEZrDywg3n)
 
 Functional Reactive JavaScript Let’s stop the Conversational Remorse  
+Anas Raza Firdousi  
 [Slides](https://t.co/w2wBVMUP8c)
