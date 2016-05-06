@@ -10,7 +10,7 @@ Slides
 
 ### Day 1 
 
-Day 1 Keynote
+Day 1 Keynote  
 Brad Green and Jules Kremer  
 [Slides](https://t.co/6rmvZByOgp)
 
@@ -33,7 +33,7 @@ Julie Ralph
 [zone.js repo](https://github.com/angular/zone.js)
 
 Angular 2 Router  
-Misko Hevery
+Misko Hevery  
 [Slides](https://t.co/0EtsdcZWL1)
 
 Components! Components! Components! and Angular 1.5  
@@ -44,17 +44,17 @@ Functional Reactive JavaScript Let’s stop the Conversational Remorse
 Anas Raza Firdousi  
 [Slides](https://t.co/w2wBVMUP8c)
 
-Tour of Heroes
-John Papa
-[Repo](https://github.com/johnpapa/angular2-tour-of-heroes)
+Tour of Heroes  
+John Papa  
+[Repo](https://github.com/johnpapa/angular2-tour-of-heroes)  
 [Style Guide](http://jpapa.me/ng2styleguide)
 
 ### Day 2
-Day 2 Keynote
+Day 2 Keynote  
 [Slides](https://t.co/3KUDhCfH3O)
 
 Angular Upgrade Workshop  
-Thoughtram.io   
+Thoughtram.io  
 [Slides](http://thoughtram.io/angular-upgrade-slides/#/)  
 [Github Sample Upgrade Code](https://github.com/thoughtram/angular-upgrade-app)
 
@@ -84,6 +84,6 @@ Code Lab: New Data Architecture in Angular2
 [Lab](https://t.co/9jeKk5ttHc)  
 [Slides](https://t.co/N6z9QEYd3z)
 
-Angular 1 to 2 Migration
-[Slides](https://t.co/QxKBt1VMKU)
+Angular 1 to 2 Migration  
+[Slides](https://t.co/QxKBt1VMKU)  
 [Repo](https://t.co/0TtELxJUZv)
