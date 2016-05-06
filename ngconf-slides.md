@@ -87,3 +87,7 @@ Code Lab: New Data Architecture in Angular2
 Angular 1 to 2 Migration  
 [Slides](https://t.co/QxKBt1VMKU)  
 [Repo](https://t.co/0TtELxJUZv)
+
+### User Favorites
+You don't know JS  
+[All docs on GitHub](https://github.com/getify/You-Dont-Know-JS)
