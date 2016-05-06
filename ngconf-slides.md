@@ -43,6 +43,8 @@ Anas Raza Firdousi
 [Slides](https://t.co/w2wBVMUP8c)
 
 ### Day 2
+Day 2 Keynote  
+[Slides](https://t.co/3KUDhCfH3O)
 
 Angular Upgrade Workshop  
 Thoughtram.io   
@@ -68,5 +70,10 @@ Angular Universal Server Side Rendering
 [Angular Universal Document](https://universal.angular.io/)  
 [Github Sample Code](https://github.com/angular/universal-starter)
 
-Universal web site  
+Angular Universal web site  
 [Micro-site](universal.angular.io)
+
+Code Lab: New Data Architecture in Angular2  
+[Lab](https://t.co/9jeKk5ttHc)  
+[Slides](https://t.co/N6z9QEYd3z)
+
