@@ -77,3 +77,6 @@ Code Lab: New Data Architecture in Angular2
 [Lab](https://t.co/9jeKk5ttHc)  
 [Slides](https://t.co/N6z9QEYd3z)
 
+Angular 1 to 2 Migration
+[Slides](https://t.co/QxKBt1VMKU)
+[Repo](https://t.co/0TtELxJUZv)
