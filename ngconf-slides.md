@@ -93,6 +93,14 @@ Animations
 [slides](yom.nu/ng-conf-2016-slides)  
 [demos](https://github.com/matsko/ng-conf/demos)
 
+Learn Klingon / Angular 2 command line interface..
+[Angular CLI site](http://cli.angular.io)
+
+Angular for the rest of us
+Scott Moss @scottups
+
+React native
+
 
 ### User Favorites
 You don't know JS  
