@@ -46,7 +46,8 @@ Anas Raza Firdousi
 
 Tour of Heroes  
 John Papa  
-[Repo](https://github.com/johnpapa/angular2-tour-of-heroes)  
+[Tour of Heroes Repo](https://github.com/johnpapa/angular2-tour-of-heroes)  
+[Live coding repo](https://github.com/johnpapa/angular2-force)
 [Style Guide](http://jpapa.me/ng2styleguide)
 
 ### Day 2
