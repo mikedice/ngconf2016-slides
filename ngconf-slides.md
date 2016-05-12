@@ -1,101 +1,171 @@
 ng-conf 2016 resources
 ======================
 
-Videos
-------
-[ng-conf 2016 video playlist](https://www.youtube.com/watch?list=PLOETEcp3DkCq788xapkP_OU-78jhTf68j&v=J5Bvy4KhIs0)
-
-Slides
-------
-
 ### Day 1 
 
-Day 1 Keynote  
-Brad Green and Jules Kremer  
+**Day 1 Keynote** 
+Brad Green & Jules Kremer  
+[Video](https://www.youtube.com/watch?v=gdlpE9vPQFs)  &nbsp;
 [Slides](https://t.co/6rmvZByOgp)
 
-TypeScript: Angular 2's Secret Weapon  
+**An Angular2 Force Awakens**
+John Papa    
+[Video](https://www.youtube.com/watch?v=WAPQF_GA7Qg)  &nbsp;
+[Live coding repo](https://github.com/johnpapa/angular2-force)  &nbsp;
+[Tour of Heroes Repo](https://github.com/johnpapa/angular2-tour-of-heroes) &nbsp;
+[Angular2 Style Guide](https://angular.io/styleguide)
+
+**Angular 2's Fresh Approach to Style**
+Justin Schwartzenberger  
+[Video](https://www.youtube.com/watch?v=J5Bvy4KhIs0) &nbsp;
+[live coding repo](https://github.com/jschwarty/ngconf-2016-fresh-approach-to-style)
+
+**TypeScript: Angular 2's Secret Weapon**
 Dan Wahlin  
+[Video](https://www.youtube.com/watch?v=e3djIqAGqZo) &nbsp;
 [Slides](https://t.co/O7Bc3NyJtV)
 
-Angular 2 Universal Patterns  
+**Angular 2 Universal Patterns**
 Patrick Stapleton & Jeff Whelpley  
-[Slides](https://t.co/EMivEdHdJ9)
+[Video](https://www.youtube.com/watch?v=TCj_oC3m6_U) &nbsp;
+[Slides](https://t.co/EMivEdHdJ9) &nbsp;
+[Live coding repo](https://github.com/gdi2290/ng-conf-2016-universal-patterns) &nbsp;
+[writeup](https://www.infoq.com/news/2016/05/angular-universal-patterns)
 
-Angular Material titanium-octopus  
-Kara Erickson & Jeremy Elbourn  
-[Slides](https://t.co/vHljvzZ1SX)
-
-Testing your Tasks  
-Julie Ralph  
-[Slides](https://t.co/RfUWxkY4KR)
-[Repo](https://github.com/juliemr/ngconf-2016-zones)
-[zone.js repo](https://github.com/angular/zone.js)
-
-Angular 2 Router  
+**Angular 2 Router**
 Misko Hevery  
+[Video](https://www.youtube.com/watch?v=d8yAdeshpcw) &nbsp;
 [Slides](https://t.co/0EtsdcZWL1)
 
-Components! Components! Components! and Angular 1.5  
-Pete Bacon Darwin  
-[Slides](https://t.co/bEZrDywg3n)
+**Components! Components! Components! and Angular 1.5** 
+Peter Bacon Darwin  
+[Video](https://www.youtube.com/watch?v=AMwjDibFxno) &nbsp;
+[Slides](https://t.co/bEZrDywg3n)  
+Links from the "Further Reading" slide:
+- [Angular 1 Component Guide](https://docs.angularjs.org/guide/component)
+- [Angular 1 Component Router Guide](https://docs.angularjs.org/guide/component-router)
+- [Angular 2 Lifecycle Hooks](https://angular.io/docs/ts/latest/guide/lifecycle-hooks.html)
+- [Angular 2 Component Communication](https://angular.io/docs/ts/latest/cookbook/component-communication.html)
 
-Functional Reactive JavaScript Let’s stop the Conversational Remorse  
+
+**Look Deeply Into Your App with Augury (Batarangle)**
+Igor Kamenetsky & Vanessa Yuen    
+[Video](https://www.youtube.com/watch?v=b1YV9vJKXEA) &nbsp;
+[Augury Homepage](augury.angular.io)
+
+**Angular Material titanium-octopus**
+Kara Erickson & Jeremy Elbourn  
+[Video](https://www.youtube.com/watch?v=rRiV_b3WsoY) &nbsp;
+[Slides](https://t.co/vHljvzZ1SX) &nbsp;
+[Live coding repo](https://github.com/kara/puppy-love)
+
+**Testing all your Tasks**
+Julie Ralph  
+[Video](https://www.youtube.com/watch?v=DltUEDy7ItY) &nbsp;
+[Slides](https://t.co/RfUWxkY4KR) &nbsp;
+[Repo](https://github.com/juliemr/ngconf-2016-zones) &nbsp;
+[zone.js source code](https://github.com/angular/zone.js)
+
+
+**Functional Reactive JavaScript** 
 Anas Raza Firdousi  
+[Video](https://www.youtube.com/watch?v=mmWCuSxSXeY) &nbsp;
 [Slides](https://t.co/w2wBVMUP8c)
 
-Tour of Heroes  
-John Papa  
-[Tour of Heroes Repo](https://github.com/johnpapa/angular2-tour-of-heroes)  
-[Live coding repo](https://github.com/johnpapa/angular2-force)
-[Style Guide](http://jpapa.me/ng2styleguide)
+**Sharing Code Between Web and Native Apps (NativeScript)**
+Jen Looper & TJ VanToll  
+[Video](https://www.youtube.com/watch?v=R3nyG2xtzeQ)
+
+**Progressive Web Apps (Angular Mobile Toolkit)**
+Jeff Cross & Alex Rickabaugh  
+[Video](https://www.youtube.com/watch?v=wLWVASD0dvU) &nbsp; 
+[Mobile Toolkit](https://mobile.angular.io/) &nbsp;
+[Issue-zero app source code](https://github.com/angular/issue-zero)
+
 
 ### Day 2
-Day 2 Keynote  
+**Day 2 Keynote**
+Brad Green & Misko Hevery & Rob Wormald & Alex Eagle & Hans Larsen  
+[Video (part of the Conference Day 2 video)](https://www.youtube.com/watch?v=bSssb9AmiJU&t=25m22s) &nbsp; 
 [Slides](https://t.co/3KUDhCfH3O)
 
-Angular Upgrade Workshop  
-Thoughtram.io  
-[Slides](http://thoughtram.io/angular-upgrade-slides/#/)  
+**Migrating Angular 1 Apps to Angular 2**
+Pascal Precht & Christoph Burgdorf  
+[Slides](http://thoughtram.io/angular-upgrade-slides/#/) &nbsp; 
 [Github Sample Upgrade Code](https://github.com/thoughtram/angular-upgrade-app)
 
-Typescript in 60is minutes  
+**Smarter Navigation With The Component Router**
+Brandon Roberts  
+[Slides](https://t.co/3MNyXJGypI) &nbsp; 
+[Router application source code](https://github.com/brandonroberts/ngconf-router) &nbsp; 
+[Router snippets](http://tinyurl.com/ngconf-router-snippets)
+
+**Typescript in 60ish minutes**
+Dan Wahlin  
+[Slides](http://tinyurl.com/TS-ES6-In60) &nbsp; 
 [Dan Wahlin's Angular2 and Typescript Jumpstart](http://github.com/danwahlin/angular2-jumpstart)
 
 Angular2 in 60ish minutes  
 [Slides](http://tinyurl.com/angular2jumpstart)
 
-Isolating and Improving performance in Angular 1 Applications  
+**Angular + Webpack <3**
+Sean Larkin  
+[Setup instructions](http://thelarkinn.github.io/angular2-webpack-lite/)
+
+**Isolating and Improving performance in Angular 1 Applications** 
+Taylor Everding  
 [Github Sample Code](https://github.com/taylor1791/ng-conf-2016-workshop)
 
-Unit Testing with Angular 2  
-[Github Sample Code](https://github.com/elecash/ng-conf-testing)
-
-How to create a library for Angular 2  
-[Github Sample Code](https://github.com/ocombe/ng-conf-library)
-
-Angular Universal Server Side Rendering  
-[Angular Universal Document](https://universal.angular.io/)  
-[Github Sample Code](https://github.com/angular/universal-starter)
-
-Angular Universal web site  
-[Micro-site](universal.angular.io)
-
-Code Lab: New Data Architecture in Angular2  
-[Lab](https://t.co/9jeKk5ttHc)  
+**Code Lab: New Data Architecture in Angular2**
+Gerard Sans  
+[Lab](https://t.co/9jeKk5ttHc)  &nbsp; 
 [Slides](https://t.co/N6z9QEYd3z)
 
-Angular 1 to 2 Migration  
-[Slides](https://t.co/QxKBt1VMKU)  
-[Samples repo](https://t.co/0TtELxJUZv)
+**Unit Testing with Angular 2**
+Raul Jimenez  
+[Github Sample Code](https://github.com/elecash/ng-conf-testing)
+
+**Angular Universal Server Side Rendering**
+Jeffrey Whelpley  Patrick Stapleton   
+[Angular Universal Document](https://universal.angular.io/) &nbsp; 
+[Github Sample Code](https://github.com/angular/universal-starter)
+
+**How to create a library for Angular 2** 
+Olivier Combe  
+[Github Sample Code](https://github.com/ocombe/ng-conf-library)
+
 
 ### Day 3
-Animations  
-[slides](yom.nu/ng-conf-2016-slides)  
-[demos](https://github.com/matsko/ng-conf/demos)
+**Typescript**
+Daniel Rosenwasser   
+[Video](https://www.youtube.com/watch?v=dzPjBWLdGz0) &nbsp;
+[Code samples](https://github.com/DanielRosenwasser/ng-conf-2016) &nbsp;
+[TypeScript roadmap (current version is 1.8)](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
+
+**History of Promises**
+Sam Saccone  
+[Video](https://www.youtube.com/watch?v=24FzHoAVC10) &nbsp; 
+[Slides](https://docs.google.com/presentation/d/1J4WRT8bgmzn_n_c9f94-TAoxKSj-bm0HvB7jkoGu_NU)
+
+**​Pipe Hype (Creating custom pipes)**
+Aysegul Yonet  
+[Video](https://www.youtube.com/watch?v=joSHg-4ZBZ8)
+[Slides](http://bit.ly/ng-conf-pipes)
+
+**Multi-Slot Transclusion**
+Ken Snyder  
+[Video](https://www.youtube.com/watch?v=59IY2MIl5u0)
+
+**Animations**  Matias Niemelä  
+[Slides](yom.nu/ng-conf-2016-slides)
+[Demos](https://github.com/matsko/ng-conf/demos)
+
+**Learn Clingon (Angular CLI)**
+Mike Brocchi  
+[Video](https://www.youtube.com/watch?v=wHZe6gGI5RY)
+[Slides](https://t.co/odQIfGk37M)
+[Repo](https://github.com/Brocco/ng-conf-toh-demo)
 
 
-### User Favorites
-You don't know JS  
-[All docs on GitHub](https://github.com/getify/You-Dont-Know-JS)
-
+**Angular 2 for the rest of us**
+Scott Moss  
