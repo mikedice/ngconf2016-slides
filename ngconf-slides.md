@@ -35,6 +35,7 @@ Angular Material titanium-octopus
 Kara Erickson & Jeremy Elbourn  
 [Slides](https://t.co/vHljvzZ1SX)  
 [Sample App](https://github.com/kara/puppy-love)  
+[Demo App](https://puppy-love.firebaseapp.com/)
 
 Testing your Tasks  
 Julie Ralph  
@@ -105,9 +106,18 @@ Animations
 [Slides](http://slides.yearofmoo.com/ng-conf-2016-slides/index.html#/0/0/)  
 [demos](https://github.com/matsko/ng-conf-demos)
 
+Learn Clingon (Angular CLI)  
+[Slides](https://docs.google.com/presentation/d/1m-ApfPczuVg1gq5z7EMeHsgf5Oeag8yOhL8G8f9sm2c/edit)
+
 Reactive Programming, changing the world at Netflix, Microsoft, Slack and beyond!  
 [Slides](https://github.com/mattpodwysocki/ng-conf-2016/blob/master/ng-conf-2016.pdf)  
 [resources](https://github.com/mattpodwysocki/ng-conf-2016)
+
+Reactive Angular2 with ngRx  
+[GitHub Repo](https://github.com/ngrx)
+
+It's Just a Textbox, What Could Go Wrong?: Angular 2 Forms and Validation  
+[Slides](https://docs.google.com/presentation/d/1YqZmwY4FYbq5yRjm6PxzKjtZrAXpT54o62D9qsxDtV4/pub)
 
 Automated Angular 2 Style Checking with Codelyzer  
 [Slides](https://speakerdeck.com/mgechev/automated-angular-2-style-checking-with-codelyzer)
