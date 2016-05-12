@@ -26,7 +26,7 @@ Dan Wahlin
 [Slides](https://t.co/O7Bc3NyJtV)
 
 **Angular 2 Universal Patterns**
-Patrick Stapleton & Jeff Whelpley  
+Patrick Stapleton & Jeff Whelpley - 14:33  
 [Video](https://www.youtube.com/watch?v=TCj_oC3m6_U) &nbsp;
 [Slides](https://t.co/EMivEdHdJ9) &nbsp;
 [Live coding repo](https://github.com/gdi2290/ng-conf-2016-universal-patterns) &nbsp;
@@ -105,9 +105,6 @@ Dan Wahlin
 [Slides](http://tinyurl.com/TS-ES6-In60) &nbsp; 
 [Dan Wahlin's Angular2 and Typescript Jumpstart](http://github.com/danwahlin/angular2-jumpstart)
 
-Angular2 in 60ish minutes  
-[Slides](http://tinyurl.com/angular2jumpstart)
-
 **Angular + Webpack <3**
 Sean Larkin  
 [Setup instructions](http://thelarkinn.github.io/angular2-webpack-lite/)
@@ -137,35 +134,73 @@ Olivier Combe
 
 ### Day 3
 **Typescript**
-Daniel Rosenwasser   
+Daniel Rosenwasser - 21:54   
 [Video](https://www.youtube.com/watch?v=dzPjBWLdGz0) &nbsp;
 [Code samples](https://github.com/DanielRosenwasser/ng-conf-2016) &nbsp;
 [TypeScript roadmap (current version is 1.8)](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
 
 **History of Promises**
-Sam Saccone  
+Sam Saccone - 19:24   
 [Video](https://www.youtube.com/watch?v=24FzHoAVC10) &nbsp; 
 [Slides](https://docs.google.com/presentation/d/1J4WRT8bgmzn_n_c9f94-TAoxKSj-bm0HvB7jkoGu_NU)
 
 **​Pipe Hype (Creating custom pipes)**
-Aysegul Yonet  
-[Video](https://www.youtube.com/watch?v=joSHg-4ZBZ8)
+Aysegul Yonet - 13:58  
+[Video](https://www.youtube.com/watch?v=joSHg-4ZBZ8) &nbsp;
 [Slides](http://bit.ly/ng-conf-pipes)
 
 **Multi-Slot Transclusion**
-Ken Snyder  
+Ken Snyder - 6:26  
 [Video](https://www.youtube.com/watch?v=59IY2MIl5u0)
 
-**Animations**  Matias Niemelä  
-[Slides](yom.nu/ng-conf-2016-slides)
+**Animations**  Matias Niemelä - 15:56  
+[Video](https://www.youtube.com/watch?v=Hr4IKlr9mhg) &nbsp;
+[Slides](yom.nu/ng-conf-2016-slides) &nbsp;
 [Demos](https://github.com/matsko/ng-conf/demos)
 
 **Learn Clingon (Angular CLI)**
-Mike Brocchi  
-[Video](https://www.youtube.com/watch?v=wHZe6gGI5RY)
-[Slides](https://t.co/odQIfGk37M)
+Mike Brocchi - 23:39  
+[Video](https://www.youtube.com/watch?v=wHZe6gGI5RY) &nbsp;
+[Slides](https://t.co/odQIfGk37M) &nbsp;
 [Repo](https://github.com/Brocco/ng-conf-toh-demo)
 
-
 **Angular 2 for the rest of us**
-Scott Moss  
+Scott Moss - 20:17  
+[Video](https://www.youtube.com/watch?v=GE5gZX6V6Zs)
+
+**React Native**
+Marc Laval - 18:08  
+[Video](https://www.youtube.com/watch?v=yDbaihb1eIs)
+[Slides](https://t.co/CCm3SG0UNr)
+
+**Reactive Programming, changing the world at Netflix, Microsoft, Slack and beyond!**
+Matthew Podwysocki - 19:42  
+[Video](https://www.youtube.com/watch?v=yEeDbHvg1vQ)
+[Slides pdf](https://github.com/mattpodwysocki/ng-conf-2016/raw/master/ng-conf-2016.pdf)
+
+**Async data patterns with AngularFire**
+David East - 19:35  
+[Video](https://www.youtube.com/watch?v=oLG5TXLeuHQ)
+
+**Demystifying Decorators**
+Michael Bennett - 4:28   
+[Video](https://www.youtube.com/watch?v=Drt0S6rrZ9I)
+
+**Reactive Angular2 with ngRx**
+Rob Wormald - 20:04  
+[Video](https://www.youtube.com/watch?v=mhA7zZ23Odw)
+
+**It's Just a Textbox, What Could Go Wrong?: Angular 2 Forms and Validation**
+Deborah Kurata - 20:14  
+[Video](https://www.youtube.com/watch?v=ihYc9y7dQA0) &nbsp;
+[Slides](https://t.co/xC8fgsrDlu) &nbsp;
+[Repo](https://github.com/DeborahK/ngconf2016)
+
+**Automated Angular 2 Style Checking with Codelyzer**
+Minko Gechev - 8:59  
+[Video](https://www.youtube.com/watch?v=bci-Z6nURgE)
+[Slides](https://speakerdeck.com/mgechev/automated-angular-2-style-checking-with-codelyzer)
+
+**Enhancing performance without steroids**
+Zackary Chapple - 10:18  
+[Video](https://www.youtube.com/watch?v=jxt8qe6DSOw)
