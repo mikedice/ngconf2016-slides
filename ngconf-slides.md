@@ -1,21 +1,9 @@
 ng-conf 2016 resources
-
+======================
 
 Videos
 ------
 [ng-conf 2016 video playlist](https://www.youtube.com/watch?list=PLOETEcp3DkCq788xapkP_OU-78jhTf68j&v=J5Bvy4KhIs0)
-
-Slides
-------
-
-### Workshops
-
-Egghead.io Angular 2  
-[Resources](https://github.com/johnlindquist/angular2-workshop-resources)  
-[Labs](https://github.com/johnlindquist/angular2-workshop)
-
-Angular 2 Master Class: Jump Start Tutorial  
-[Slides](http://thoughtram.io/angular2-master-class-jump-start-slides/#/)
 
 ### Day 1 
 
@@ -47,14 +35,14 @@ Patrick Stapleton & Jeff Whelpley
 
 Angular Material titanium-octopus  
 Kara Erickson & Jeremy Elbourn  
-[Slides](https://t.co/vHljvzZ1SX)  
-[Sample App](https://github.com/kara/puppy-love)  
+[Slides](https://t.co/vHljvzZ1SX)  &nbsp;&nbsp;
+[Sample App](https://github.com/kara/puppy-love)  &nbsp;&nbsp;
 [Demo App](https://puppy-love.firebaseapp.com/)
 
 Testing your Tasks  
 Julie Ralph  
-[Slides](https://t.co/RfUWxkY4KR)  
-[Repo](https://github.com/juliemr/ngconf-2016-zones)  
+[Slides](https://t.co/RfUWxkY4KR)  &nbsp;&nbsp;
+[Repo](https://github.com/juliemr/ngconf-2016-zones)  &nbsp;&nbsp;
 [zone.js repo](https://github.com/angular/zone.js)
 
 **Angular 2 Universal Patterns**
@@ -106,41 +94,41 @@ Anas Raza Firdousi - 27:33
 
 Tour of Heroes  
 John Papa  
-[Tour of Heroes Repo](https://github.com/johnpapa/angular2-tour-of-heroes)  
-[Live coding repo](https://github.com/johnpapa/angular2-force)  
+[Tour of Heroes Repo](https://github.com/johnpapa/angular2-tour-of-heroes)  &nbsp;&nbsp;
+[Live coding repo](https://github.com/johnpapa/angular2-force)  &nbsp;&nbsp;
 [Style Guide](http://jpapa.me/ng2styleguide)
 
 
 ### Day 2
 **Day 2 Keynote**
 Brad Green & Misko Hevery & Rob Wormald & Alex Eagle & Hans Larsen &nbsp;&nbsp; ~36:40  
-[Video (part of the Conference Day 2 video)](https://www.youtube.com/watch?v=bSssb9AmiJU&t=25m22s) &nbsp; 
+[Video (part of the Conference Day 2 video)](https://www.youtube.com/watch?v=bSssb9AmiJU&t=25m22s) &nbsp;&nbsp;
 [Slides](https://t.co/3KUDhCfH3O)
 
 **Sharing Code Between Web and Native Apps (NativeScript)**
-Jen Looper & TJ VanToll -20:21    
+Jen Looper & TJ VanToll -20:21  
 [Video](https://www.youtube.com/watch?v=R3nyG2xtzeQ)
 
 **Progressive Web Apps (Angular Mobile Toolkit)**
 Jeff Cross & Alex Rickabaugh - 20:30  
-[Video](https://www.youtube.com/watch?v=wLWVASD0dvU)  
-[Mobile Toolkit](https://mobile.angular.io/)..
+[Video](https://www.youtube.com/watch?v=wLWVASD0dvU)  &nbsp;&nbsp;
+[Mobile Toolkit](https://mobile.angular.io/)  &nbsp;&nbsp;
 [Issue-zero app source code](https://github.com/angular/issue-zero)
 
 **Migrating Angular 1 Apps to Angular 2**
 Pascal Precht & Christoph Burgdorf  
-[Slides](http://thoughtram.io/angular-upgrade-slides/#/)..
+[Slides](http://thoughtram.io/angular-upgrade-slides/#/) &nbsp;&nbsp;
 [Github Sample Upgrade Code](https://github.com/thoughtram/angular-upgrade-app)
 
 **Smarter Navigation With The Component Router**
 Brandon Roberts  
-[Slides](https://t.co/3MNyXJGypI)..
-[Router application source code](https://github.com/brandonroberts/ngconf-router) &nbsp; 
+[Slides](https://t.co/3MNyXJGypI)  &nbsp;&nbsp;
+[Router application source code](https://github.com/brandonroberts/ngconf-router)   &nbsp;&nbsp;
 [Router snippets](http://tinyurl.com/ngconf-router-snippets)
 
 **Typescript in 60ish minutes**
 Dan Wahlin  
-[Slides](http://tinyurl.com/TS-ES6-In60)..
+[Slides](http://tinyurl.com/TS-ES6-In60)  &nbsp;&nbsp;
 [Dan Wahlin's Angular2 and Typescript Jumpstart](http://github.com/danwahlin/angular2-jumpstart)
 
 **Angular + Webpack <3**
@@ -153,7 +141,7 @@ Taylor Everding
 
 **Code Lab: New Data Architecture in Angular2**
 Gerard Sans  
-[Lab](https://t.co/9jeKk5ttHc)  
+[Lab](https://t.co/9jeKk5ttHc)  &nbsp;&nbsp;
 [Slides](https://t.co/N6z9QEYd3z)
 
 **Unit Testing with Angular 2**
@@ -162,7 +150,7 @@ Raul Jimenez
 
 **Angular Universal Server Side Rendering**
 Jeffrey Whelpley  Patrick Stapleton   
-[Angular Universal Document](https://universal.angular.io/)  
+[Angular Universal Document](https://universal.angular.io/)  &nbsp;&nbsp;
 [Github Sample Code](https://github.com/angular/universal-starter)
 
 **How to create a library for Angular 2** 
@@ -171,64 +159,44 @@ Olivier Combe
 
 
 ### Day 3
-Animations  
-[Slides](http://slides.yearofmoo.com/ng-conf-2016-slides/index.html#/0/0/)  
+**Animations**  
+[Slides](http://slides.yearofmoo.com/ng-conf-2016-slides/index.html#/0/0/)  &nbsp;&nbsp;
 [demos](https://github.com/matsko/ng-conf-demos)
 
-Learn Clingon (Angular CLI)  
-[Slides](https://docs.google.com/presentation/d/1m-ApfPczuVg1gq5z7EMeHsgf5Oeag8yOhL8G8f9sm2c/edit)
-
-Reactive Programming, changing the world at Netflix, Microsoft, Slack and beyond!  
-[Slides](https://github.com/mattpodwysocki/ng-conf-2016/blob/master/ng-conf-2016.pdf)  
+**Reactive Programming, changing the world at Netflix, Microsoft, Slack and beyond!**  
+[Slides](https://github.com/mattpodwysocki/ng-conf-2016/blob/master/ng-conf-2016.pdf)  &nbsp;&nbsp;
 [resources](https://github.com/mattpodwysocki/ng-conf-2016)
 
-Reactive Angular2 with ngRx  
-[GitHub Repo](https://github.com/ngrx)
+**Learn Klingon / Angular 2 command line interface**  
+[Angular CLI site](http://cli.angular.io) &nbsp;&nbsp;
+[Slides](https://docs.google.com/presentation/d/1m-ApfPczuVg1gq5z7EMeHsgf5Oeag8yOhL8G8f9sm2c/edit)
 
-
-Learn Klingon / Angular 2 command line interface..
-[Angular CLI site](http://cli.angular.io)
-
-Angular for the rest of us
+**Angular for the rest of us**  
 Scott Moss @scottups
 
-React native
-
-It's Just a Textbox, What Could Go Wrong?: Angular 2 Forms and Validation  
+**It's Just a Textbox, What Could Go Wrong?: Angular 2 Forms and Validation**  
 [Slides](https://docs.google.com/presentation/d/1YqZmwY4FYbq5yRjm6PxzKjtZrAXpT54o62D9qsxDtV4/pub)
 
-Automated Angular 2 Style Checking with Codelyzer  
+**Automated Angular 2 Style Checking with Codelyzer**  
 [Slides](https://speakerdeck.com/mgechev/automated-angular-2-style-checking-with-codelyzer)  
 
-### User Favorites
-You don't know JS  
-[All docs on GitHub](https://github.com/getify/You-Dont-Know-JS)
-
-### Resources  
-[Style Guide](https://angular.io/styleguide)  
-[Angular Universal](https://universal.angular.io/)  
-[Angular Augury Dev Tools](https://augury.angular.io/)  
-[Angular CLI](https://cli.angular.io/)  
-[Angular Mobile Toolkit](https://mobile.angular.io/)  
-[Angular Education & Tooling](https://angular.io/resources/)  
-
-**Typescript**
+**Typescript**  
 Daniel Rosenwasser - 21:54   
 [Video](https://www.youtube.com/watch?v=dzPjBWLdGz0) &nbsp;&nbsp;
 [Code samples](https://github.com/DanielRosenwasser/ng-conf-2016) &nbsp;&nbsp;
 [TypeScript roadmap (current version is 1.8)](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
 
-**History of Promises**
+**History of Promises**  
 Sam Saccone - 19:24   
 [Video](https://www.youtube.com/watch?v=24FzHoAVC10) &nbsp;&nbsp; 
 [Slides](https://docs.google.com/presentation/d/1J4WRT8bgmzn_n_c9f94-TAoxKSj-bm0HvB7jkoGu_NU)
 
-**​Pipe Hype (Creating custom pipes)**
+**​Pipe Hype (Creating custom pipes)**  
 Aysegul Yonet - 13:58  
 [Video](https://www.youtube.com/watch?v=joSHg-4ZBZ8) &nbsp;&nbsp;
 [Slides](http://bit.ly/ng-conf-pipes)
 
-**Multi-Slot Transclusion**
+**Multi-Slot Transclusion**  
 Ken Snyder - 6:26  
 [Video](https://www.youtube.com/watch?v=59IY2MIl5u0)
 
@@ -246,6 +214,12 @@ Mike Brocchi - 23:39
 **Angular 2 for the rest of us**
 Scott Moss - 20:17  
 [Video](https://www.youtube.com/watch?v=GE5gZX6V6Zs)
+
+
+**Reactive Angular2 with ngRx**  
+Rob Wormald - 20:04  
+[GitHub Repo](https://github.com/ngrx) &nbsp;&nbsp;
+[Video](https://www.youtube.com/watch?v=mhA7zZ23Odw)
 
 **React Native**
 Marc Laval - 18:08  
@@ -265,10 +239,6 @@ David East - 19:35
 Michael Bennett - 4:28   
 [Video](https://www.youtube.com/watch?v=Drt0S6rrZ9I)
 
-**Reactive Angular2 with ngRx**
-Rob Wormald - 20:04  
-[Video](https://www.youtube.com/watch?v=mhA7zZ23Odw)
-
 **It's Just a Textbox, What Could Go Wrong?: Angular 2 Forms and Validation**
 Deborah Kurata - 20:14  
 [Video](https://www.youtube.com/watch?v=ihYc9y7dQA0) &nbsp;&nbsp;
@@ -283,3 +253,25 @@ Minko Gechev - 8:59
 **Enhancing performance without steroids**
 Zackary Chapple - 10:18  
 [Video](https://www.youtube.com/watch?v=jxt8qe6DSOw)
+
+
+### Workshops
+Egghead.io Angular 2  
+[Resources](https://github.com/johnlindquist/angular2-workshop-resources)  &nbsp;&nbsp;  
+[Labs](https://github.com/johnlindquist/angular2-workshop)
+
+Angular 2 Master Class: Jump Start Tutorial  
+[Slides](http://thoughtram.io/angular2-master-class-jump-start-slides/#/)
+
+### User Favorites
+You don't know JS  
+[All docs on GitHub](https://github.com/getify/You-Dont-Know-JS)
+
+### Resources  
+[Style Guide](https://angular.io/styleguide)  
+[Angular Universal](https://universal.angular.io/)  
+[Angular Augury Dev Tools](https://augury.angular.io/)  
+[Angular CLI](https://cli.angular.io/)  
+[Angular Mobile Toolkit](https://mobile.angular.io/)  
+[Angular Education & Tooling](https://angular.io/resources/)  
+
