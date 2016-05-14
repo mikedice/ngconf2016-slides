@@ -8,6 +8,15 @@ Videos
 Slides
 ------
 
+### Workshops
+
+Egghead.io Angular 2  
+[Resources](https://github.com/johnlindquist/angular2-workshop-resources)  
+[Labs](https://github.com/johnlindquist/angular2-workshop)
+
+Angular 2 Master Class: Jump Start Tutorial  
+[Slides](http://thoughtram.io/angular2-master-class-jump-start-slides/#/)
+
 ### Day 1 
 
 Day 1 Keynote  
@@ -24,12 +33,14 @@ Patrick Stapleton & Jeff Whelpley
 
 Angular Material titanium-octopus  
 Kara Erickson & Jeremy Elbourn  
-[Slides](https://t.co/vHljvzZ1SX)
+[Slides](https://t.co/vHljvzZ1SX)  
+[Sample App](https://github.com/kara/puppy-love)  
+[Demo App](https://puppy-love.firebaseapp.com/)
 
 Testing your Tasks  
 Julie Ralph  
-[Slides](https://t.co/RfUWxkY4KR)
-[Repo](https://github.com/juliemr/ngconf-2016-zones)
+[Slides](https://t.co/RfUWxkY4KR)  
+[Repo](https://github.com/juliemr/ngconf-2016-zones)  
 [zone.js repo](https://github.com/angular/zone.js)
 
 Angular 2 Router  
@@ -47,10 +58,10 @@ Anas Raza Firdousi
 Tour of Heroes  
 John Papa  
 [Tour of Heroes Repo](https://github.com/johnpapa/angular2-tour-of-heroes)  
-[Live coding repo](https://github.com/johnpapa/angular2-force)
+[Live coding repo](https://github.com/johnpapa/angular2-force)  
 [Style Guide](http://jpapa.me/ng2styleguide)
 
-### Day 2
+### Day 2  
 Day 2 Keynote  
 [Slides](https://t.co/3KUDhCfH3O)
 
@@ -59,7 +70,8 @@ Thoughtram.io
 [Slides](http://thoughtram.io/angular-upgrade-slides/#/)  
 [Github Sample Upgrade Code](https://github.com/thoughtram/angular-upgrade-app)
 
-Typescript in 60is minutes  
+Typescript and ES6 in 60ish minutes  
+[Slides](https://docs.google.com/presentation/d/1iFsKdrsSkrLt9VUu8nr67iZQJx8Ib4VQY9l3vhzGbIM/edit)  
 [Dan Wahlin's Angular2 and Typescript Jumpstart](http://github.com/danwahlin/angular2-jumpstart)
 
 Angular2 in 60ish minutes  
@@ -91,9 +103,20 @@ Angular 1 to 2 Migration
 
 ### Day 3
 Animations  
-[slides](yom.nu/ng-conf-2016-slides)  
-[demos](https://github.com/matsko/ng-conf/demos)
+[Slides](http://slides.yearofmoo.com/ng-conf-2016-slides/index.html#/0/0/)  
+[demos](https://github.com/matsko/ng-conf-demos)
 
+Learn Clingon (Angular CLI)  
+[Slides](https://docs.google.com/presentation/d/1m-ApfPczuVg1gq5z7EMeHsgf5Oeag8yOhL8G8f9sm2c/edit)
+
+Reactive Programming, changing the world at Netflix, Microsoft, Slack and beyond!  
+[Slides](https://github.com/mattpodwysocki/ng-conf-2016/blob/master/ng-conf-2016.pdf)  
+[resources](https://github.com/mattpodwysocki/ng-conf-2016)
+
+Reactive Angular2 with ngRx  
+[GitHub Repo](https://github.com/ngrx)
+
+<<<<<<< HEAD
 Learn Klingon / Angular 2 command line interface..
 [Angular CLI site](http://cli.angular.io)
 
@@ -102,8 +125,26 @@ Scott Moss @scottups
 
 React native
 
+=======
+It's Just a Textbox, What Could Go Wrong?: Angular 2 Forms and Validation  
+[Slides](https://docs.google.com/presentation/d/1YqZmwY4FYbq5yRjm6PxzKjtZrAXpT54o62D9qsxDtV4/pub)
+
+Automated Angular 2 Style Checking with Codelyzer  
+[Slides](https://speakerdeck.com/mgechev/automated-angular-2-style-checking-with-codelyzer)
+>>>>>>> 1357c6db9854f5ae5d5a8ea3b9a64ee72241fed8
 
 ### User Favorites
 You don't know JS  
 [All docs on GitHub](https://github.com/getify/You-Dont-Know-JS)
+
+### Resources  
+[Style Guide](https://angular.io/styleguide)  
+[Angular Universal](https://universal.angular.io/)  
+[Angular Augury Dev Tools](https://augury.angular.io/)  
+[Angular CLI](https://cli.angular.io/)  
+[Angular Mobile Toolkit](https://mobile.angular.io/)  
+[Angular Education & Tooling](https://angular.io/resources/)  
+
+
+
 
