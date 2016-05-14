@@ -116,7 +116,7 @@ Reactive Programming, changing the world at Netflix, Microsoft, Slack and beyond
 Reactive Angular2 with ngRx  
 [GitHub Repo](https://github.com/ngrx)
 
-<<<<<<< HEAD
+
 Learn Klingon / Angular 2 command line interface..
 [Angular CLI site](http://cli.angular.io)
 
@@ -130,8 +130,7 @@ It's Just a Textbox, What Could Go Wrong?: Angular 2 Forms and Validation
 [Slides](https://docs.google.com/presentation/d/1YqZmwY4FYbq5yRjm6PxzKjtZrAXpT54o62D9qsxDtV4/pub)
 
 Automated Angular 2 Style Checking with Codelyzer  
-[Slides](https://speakerdeck.com/mgechev/automated-angular-2-style-checking-with-codelyzer)
->>>>>>> 1357c6db9854f5ae5d5a8ea3b9a64ee72241fed8
+[Slides](https://speakerdeck.com/mgechev/automated-angular-2-style-checking-with-codelyzer)  
 
 ### User Favorites
 You don't know JS  
